@@ -1,4 +1,4 @@
-name: CI with Azure Cloud using python 3.7
+name: CI with Azure Cloud using python 3.7  
 on: [push]
 jobs:
   build:
