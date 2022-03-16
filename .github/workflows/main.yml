@@ -1,4 +1,4 @@
-name: CI with AWS EC2 Cloud using python 3.8
+name: CI with AWS EC2 Cloud using python 3.8 . 
 on: [push]
 jobs:
   build:
